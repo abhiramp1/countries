@@ -2,7 +2,7 @@
 ## population
 
 
-## capital
+## capital Washington D.C
 
  
 ## official language
